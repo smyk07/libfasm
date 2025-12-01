@@ -1,0 +1,15 @@
+*
+
+!*/
+
+!*.ASM
+!*.INC
+!*.h
+!*.c
+
+!*.TXT
+
+!.gitignore
+!Makefile
+!FASM_README.md
+!README.md
